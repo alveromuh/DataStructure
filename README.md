@@ -30,7 +30,7 @@ Welcome to my GitHub repository! This collection encompasses various projects an
    - Implementation of the Stack data structure in Python.
 
 9. **README.md**
-   - Initial description and documentation of the repository. Please feel free to update it with additional information about your projects and learning journey.
+   - Initial description and documentation of the repository.
 
 ## Learning Journey
 
